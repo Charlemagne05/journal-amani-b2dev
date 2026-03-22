@@ -18,4 +18,4 @@ Dossier : `my-app/docs/screenshots/`
 
 ## Astuce (web)
 
-Capture depuis le navigateur
+Capture depuis le navigateur.
