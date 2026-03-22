@@ -1,7 +1,7 @@
 # Journal AMANI B2DEV
 
 Ce projet est mon application (TP) **Journal AMANI B2DEV** réalisée avec **Expo Router** + **React Native Paper**.
-L’objectif: enregistrer mes rêves, les retrouver facilement, et afficher quelques stats / bonus.
+L’objectif: enregistrer mes rêves, les retrouver facilement, et afficher les stats et faire les bonus.
 
 ## Lancer l’application
 
