@@ -10,9 +10,10 @@ export default function TabTwoScreen() {
       <Card mode="outlined">
         <Card.Content style={styles.cardContent}>
           <Text variant="titleMedium">Setup rapide</Text>
-          <Text>1. Lancer: npx expo start</Text>
-          <Text>2. Ouvrir sur Android Studio ou Expo Go</Text>
-          <Text>3. Ajouter EXPO_PUBLIC_MEANINGCLOUD_API_KEY dans `.env`</Text>
+          <Text>1. Installer: npm install</Text>
+          <Text>2. Lancer: npx expo start --web</Text>
+          <Text>3. (Optionnel) Ajouter EXPO_PUBLIC_MEANINGCLOUD_API_KEY dans `.env`</Text>
+          <Text>4. Si Expo Go est incompatible: mettre à jour ou utiliser un Dev Build</Text>
         </Card.Content>
       </Card>
     </View>
