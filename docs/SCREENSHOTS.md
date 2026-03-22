@@ -1,6 +1,6 @@
 # Captures d’écran — Journal AMANI B2DEV
 
-Plateforme de test : **Web**.
+Plateforme de test : **Web**
 
 ## Les images
 
