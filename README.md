@@ -43,7 +43,7 @@ npx expo start --dev-client
 ## Meaning Cloud (analyse automatique)
 
 L’analyse automatique utilise Meaning Cloud (sujets/personnes).  
-Créer un fichier `my-app/.env` :
+Créer un fichier `my-app/.env` (vous pouvez copier `my-app/.env.example`) :
 
 ```bash
 EXPO_PUBLIC_MEANINGCLOUD_API_KEY=...
